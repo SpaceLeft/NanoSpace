@@ -28,8 +28,8 @@
     "type": "git",
     "url": "git+https://github.com/Adivise/NanoSpace.git"
   },
-  "bugs": {
-    "url": "https://github.com/Adivise/NanoSpace/issues"
+  "engines": {
+    "node": ">=16.x"
   },
   "homepage": "https://github.com/Adivise/NanoSpace#readme"
 }
